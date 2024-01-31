@@ -12,7 +12,6 @@ This app utilizes the `/read-image/` endpoint of the [Scoreboard Reader Project]
 - **Image Capture**: Allows users to take photos of scoreboards directly within the app.
 - **Real-Time Processing**: Processes images on-the-go and extracts scoreboard data using advanced algorithms.
 - **Data Visualization**: Displays processed scoreboard data in a clear and concise format.
-- **Offline Support**: Ensures functionality even without an active internet connection.
 
 
 
