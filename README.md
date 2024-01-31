@@ -3,11 +3,18 @@
 ## Overview
 The Scoreboard Reader App is a React Native application designed to capture, process, and display scoreboard information in real-time. Leveraging the power of mobile devices, it provides a convenient and user-friendly interface for users to interact with scoreboard data.
 
+## Integration with Scoreboard Reader Flask App
+This app utilizes the `/read-image/` endpoint of the [Scoreboard Reader Project](https://github.com/Scratch-Bowling-Series/scoreboard-reader) hosted on an external server. The endpoint processes the scoreboard images and returns the extracted data, which is then displayed in the mobile app.
+
+
+
 ## Features
 - **Image Capture**: Allows users to take photos of scoreboards directly within the app.
 - **Real-Time Processing**: Processes images on-the-go and extracts scoreboard data using advanced algorithms.
 - **Data Visualization**: Displays processed scoreboard data in a clear and concise format.
 - **Offline Support**: Ensures functionality even without an active internet connection.
+
+
 
 ## Getting Started
 ### Prerequisites
