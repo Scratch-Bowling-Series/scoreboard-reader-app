@@ -153,6 +153,9 @@ vendor/
 /packages/rn-tester-e2e/apps/*.apk
 /packages/rn-tester-e2e/apps/*.app
 
+# CocoaPods
+/ios/Pods/
+
 # CircleCI
 .circleci/generated_config.yml
 .circleci/storage
